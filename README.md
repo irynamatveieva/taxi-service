@@ -1,11 +1,11 @@
-#🚕 Taxi-Service
-###Project Description:
+# 🚕 Taxi-Service
+### Project Description:
 ```
 A basic web-application that includes features for user authentication, 
 registration, and various CRUD (Create, Read, Update, Delete) operations.
 ```
 
-###🎯 Features:
+### 🎯 Features:
 - registration like a driver
 - authentication like a driver
 - create/update/remove a manufacturer
@@ -16,12 +16,12 @@ registration, and various CRUD (Create, Read, Update, Delete) operations.
 - display list of all cars
 - assign a driver to the car
 
-###📚 Structure(3-layer architecture):
+### 📚 Structure(3-layer architecture):
 - DAO (Data Access Layer)
 - Service (Application Logic Layer)
 - Controllers (Presentation Layer)
 
-###🦾 Technologies:
+### 🦾 Technologies:
 - JDK 11;
 - Apache Maven;
 - Apache Tomcat;
@@ -31,7 +31,7 @@ registration, and various CRUD (Create, Read, Update, Delete) operations.
 - JSTL;
 - Git;
 
-###📃 Installation:
+### 📃 Installation:
 - Clone this repository 
 - Be sure you have installed MySQL
 - Configure Tomcat. !Note: let's install Tomcat 9.0.50.
